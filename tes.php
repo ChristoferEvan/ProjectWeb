@@ -1,6 +1,6 @@
 <?php
 
-echo"Helo bang";
+echo"Helo bang es krim satu";
 
 
 
